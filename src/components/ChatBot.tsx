@@ -36,7 +36,7 @@ const ChatBot = () => {
     if (!apiKeySet) {
       toast({
         title: "OpenAI API Key Required",
-        description: "Please enter your OpenAI API key first",
+        description: "My Free tier ended so enter youw oen key to try thr bot",
         variant: "destructive"
       });
       return;

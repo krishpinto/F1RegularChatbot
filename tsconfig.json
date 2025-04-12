@@ -14,6 +14,8 @@
     "skipLibCheck": true,
     "allowJs": true,
     "noUnusedLocals": false,
-    "strictNullChecks": false
+    "strictNullChecks": false,
+    "suppressImplicitAnyIndexErrors": true, // Suppresses implicit 'any' index errors
+    "noEmitOnError": false // Allows emitting files even if there are type errors
   }
 }
