@@ -135,7 +135,7 @@ const ChatBot = () => {
           <div className="max-w-md mx-auto bg-white rounded-lg shadow-lg p-6">
             <div className="mb-4">
               <label htmlFor="apiKey" className="block text-sm font-medium text-gray-700 mb-2">
-                Enter your OpenAI API Key
+                Enter your OpenAI API Key cause my free tier is over
               </label>
               <input
                 type="password"
